@@ -1,4 +1,4 @@
-# Prestashop + Docker
+# Docker + Prestashop
 
 Mise en route rapide d'un service Prestashop 1.7.3.2 via Docker.
 
